@@ -5,9 +5,6 @@ function getRandomHexColor() {
 }
 
 
-
-
-
 const button = document.querySelector('.change-color')
 
 button.addEventListener('click', (event) => {
